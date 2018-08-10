@@ -1,0 +1,170 @@
+----Таблица идентификаторов---- 
+      Имя        Тип Данных    Тип Идентификатора  Номер таблицы лексем   Область видимости  Размерность массива    Знач. по умолчанию
+    intstr         Entero            Function                 2                global           Not array                   n/a
+
+-------------------- Param count: 3
+-------------------- Type     Entero Name x
+-------------------- Type     Entero Name y
+-------------------- Type     Cuerda Name s
+
+         x         Entero           Parameter                 5                intstr           Not array                   n/a
+         y         Entero           Parameter                 8                intstr           Not array                   n/a
+         s         Cuerda           Parameter                11                intstr           Not array                   n/a
+         x         Entero           Parameter                 5                intstr           Not array                   n/a
+    string         Cuerda            Variable                19                intstr           Not array                   n/a
+   Literal         Cuerda             Literal                21                               Not array                  'String /\'
+    string         Cuerda            Variable                19                intstr           Not array                   n/a
+    string         Cuerda            Variable                19                intstr           Not array                   n/a
+         s         Cuerda           Parameter                11                intstr           Not array                   n/a
+    string         Cuerda            Variable                19                intstr           Not array                   n/a
+       res         Entero            Variable                35                intstr           Not array                   n/a
+      parm         Entero            Variable                39                intstr           Not array                   n/a
+   Literal         Entero             Literal                41                               Not array                    10
+       res         Entero            Variable                35                intstr           Not array                   n/a
+      parm         Entero            Variable                39                intstr           Not array                   n/a
+         x         Entero           Parameter                 5                intstr           Not array                   n/a
+         y         Entero           Parameter                 8                intstr           Not array                   n/a
+       res         Entero            Variable                35                intstr           Not array                   n/a
+     integ         Entero            Function                60                global           Not array                   n/a
+
+-------------------- Param count: 1
+-------------------- Type     Entero Name x
+
+         x         Entero           Parameter                63                 integ           Not array                   n/a
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+   Literal         Entero             Literal                70                               Not array                     0
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+   Literal         Entero             Literal                76                               Not array                     0
+         h          Array            Variable                80                 integ                  10                   n/a
+   Literal         Entero             Literal                82                               Not array                    10
+   Literal         Entero             Literal                87                               Not array                    10
+         h          Array            Variable                80                 integ                  10                   n/a
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+   Literal         Entero             Literal                95                               Not array                     0
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+   Literal         Entero             Literal               101                               Not array                     1
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+   Literal         Entero             Literal               107                               Not array                     0
+      func         Entero            Variable               111                 integ           Not array                   n/a
+    intstr         Entero            Function                 2                global           Not array                   n/a
+
+-------------------- Param count: 3
+-------------------- Type     Entero Name x
+-------------------- Type     Entero Name y
+-------------------- Type     Cuerda Name s
+
+   Literal         Entero             Literal               115                               Not array                     2
+   Literal         Entero             Literal               117                               Not array                     3
+   Literal         Cuerda             Literal               119                               Not array                  'hello'
+         h          Array            Variable                80                 integ                  10                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+      func         Entero            Variable               111                 integ           Not array                   n/a
+         x         Entero           Parameter                63                 integ           Not array                   n/a
+         h          Array            Variable                80                 integ                  10                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+         h          Array            Variable                80                 integ                  10                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+   Literal         Entero             Literal               144                               Not array                     1
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+         h          Array            Variable                80                 integ                  10                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+       dwx         Entero            Variable                74                 integ           Not array                   n/a
+   Literal         Entero             Literal               160                               Not array                     1
+      zero         Entero            Variable                68                 integ           Not array                   n/a
+        ab         Cuerda            Function               171                global           Not array                   n/a
+
+-------------------- Param count: 2
+-------------------- Type     Cuerda Name x
+-------------------- Type     Cuerda Name y
+
+         x         Cuerda           Parameter               174                    ab           Not array                   n/a
+         y         Cuerda           Parameter               177                    ab           Not array                   n/a
+       one         Cuerda            Variable               182                    ab           Not array                   n/a
+         x         Cuerda           Parameter               174                    ab           Not array                   n/a
+       two         Cuerda            Variable               188                    ab           Not array                   n/a
+         y         Cuerda           Parameter               177                    ab           Not array                   n/a
+     three         Cuerda            Variable               194                    ab           Not array                   n/a
+       one         Cuerda            Variable               182                    ab           Not array                   n/a
+       two         Cuerda            Variable               188                    ab           Not array                   n/a
+     three         Cuerda            Variable               194                    ab           Not array                   n/a
+         x         Entero            Variable               209                  main           Not array                   n/a
+   Literal         Entero             Literal               211                               Not array                     5
+         z         Entero            Variable               215                  main           Not array                   n/a
+   Literal         Entero             Literal               217                               Not array                     0
+       res         Entero            Variable               221                  main           Not array                   n/a
+   Literal         Entero             Literal               223                               Not array                     0
+         x         Entero            Variable               209                  main           Not array                   n/a
+       res         Entero            Variable               221                  main           Not array                   n/a
+         z         Entero            Variable               215                  main           Not array                   n/a
+   Literal         Entero             Literal               235                               Not array                   100
+         z         Entero            Variable               215                  main           Not array                   n/a
+   Literal         Entero             Literal               241                               Not array                     2
+         z         Entero            Variable               215                  main           Not array                   n/a
+         z         Entero            Variable               215                  main           Not array                   n/a
+   Literal         Entero             Literal               248                               Not array                     1
+       res         Entero            Variable               221                  main           Not array                   n/a
+         a         Entero            Variable               257                  main           Not array                   n/a
+     integ         Entero            Function                60                global           Not array                   n/a
+
+-------------------- Param count: 1
+-------------------- Type     Entero Name x
+
+   Literal         Entero             Literal               261                               Not array                     4
+         t         Entero            Variable               266                  main           Not array                   n/a
+   Literal         Entero             Literal               268                               Not array                     0
+         h          Array            Variable               272                  main                   5                   n/a
+   Literal         Entero             Literal               274                               Not array                     5
+   Literal         Entero             Literal               279                               Not array                     5
+         h          Array            Variable               272                  main                   5                   n/a
+         t         Entero            Variable               266                  main           Not array                   n/a
+         t         Entero            Variable               266                  main           Not array                   n/a
+   Literal         Entero             Literal               290                               Not array                     3
+   Literal         Entero             Literal               293                               Not array                     2
+         x         Entero            Variable               209                  main           Not array                   n/a
+         h          Array            Variable               272                  main                   5                   n/a
+         t         Entero            Variable               266                  main           Not array                   n/a
+         x         Entero            Variable               209                  main           Not array                   n/a
+         t         Entero            Variable               266                  main           Not array                   n/a
+         t         Entero            Variable               266                  main           Not array                   n/a
+   Literal         Entero             Literal               309                               Not array                     1
+libfunctio         Entero            Variable               315                  main           Not array                   n/a
+libfunctio         Entero            Variable               315                  main           Not array                   n/a
+         h          Array            Variable               272                  main                   5                   n/a
+   Literal         Entero             Literal               323                               Not array                     5
+libfunctio         Entero            Variable               315                  main           Not array                   n/a
+libfunctio         Entero            Variable               315                  main           Not array                   n/a
+         h          Array            Variable               272                  main                   5                   n/a
+   Literal         Entero             Literal               335                               Not array                     5
+libfunctio         Entero            Variable               315                  main           Not array                   n/a
+         y         Entero            Variable               343                  main           Not array                   n/a
+   Literal         Entero             Literal               345                               Not array                     3
+        ar          Array            Variable               349                  main                  10                   n/a
+   Literal         Entero             Literal               351                               Not array                    10
+        ar          Array            Variable               349                  main                  10                   n/a
+   Literal         Entero             Literal               356                               Not array                     0
+   Literal         Entero             Literal               359                               Not array                    15
+       pam         Entero            Variable               363                  main           Not array                   n/a
+   Literal         Entero             Literal               365                               Not array                     2
+        ar          Array            Variable               349                  main                  10                   n/a
+       pam         Entero            Variable               363                  main           Not array                   n/a
+   Literal         Entero             Literal               373                               Not array                     6
+   Literal         Entero             Literal               375                               Not array                     4
+         y         Entero            Variable               343                  main           Not array                   n/a
+         y         Entero            Variable               343                  main           Not array                   n/a
+        ar          Array            Variable               349                  main                  10                   n/a
+   Literal         Entero             Literal               383                               Not array                     2
+         y         Entero            Variable               343                  main           Not array                   n/a
+    forstr         Cuerda            Variable               391                  main           Not array                   n/a
+        ab         Cuerda            Function               171                global           Not array                   n/a
+
+-------------------- Param count: 2
+-------------------- Type     Cuerda Name x
+-------------------- Type     Cuerda Name y
+
+   Literal         Cuerda             Literal               395                               Not array                  'Hello '
+   Literal         Cuerda             Literal               397                               Not array                  'World!'
+    forstr         Cuerda            Variable               391                  main           Not array                   n/a
+   Literal         Entero             Literal               404                               Not array                     0

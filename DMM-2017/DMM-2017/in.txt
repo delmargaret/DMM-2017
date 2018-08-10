@@ -1,0 +1,80 @@
+entero function intstr(entero x, entero y, cuerda s)
+{
+ print x;
+ declare cuerda string = "String /\";
+ print string;
+ string = s;
+ print string;
+ declare entero res;
+ declare entero parm = 10;
+ res=parm*(x+y);
+ ret res;
+};
+
+entero function integ(entero x)
+{
+ declare entero zero = 0;
+ declare entero dwx = 0;
+ declare massiv h[10];
+ for (10) {
+    h[zero] = 0;
+    zero = zero + 1;
+ };
+ zero = 0;
+ declare entero func = intstr(2, 3, "hello");
+ h[dwx] = func;
+  for (x) {
+  h[dwx] = h[dwx] + 1;
+  zero = h[dwx];
+  print zero;
+  dwx = dwx + 1;
+ };
+ ret zero;
+};
+
+cuerda function ab(cuerda x, cuerda y)
+{
+ declare cuerda one = x;
+ declare cuerda two = y;
+ declare cuerda three = one + two;
+ ret three;
+};
+
+main
+{
+ declare entero x = 5;
+ declare entero z = 0;
+ declare entero res = 0;
+ for (x) {
+    res = (z + 100)/(z+2);
+    z = z + 1;
+    print res;
+ };
+ declare entero a=integ(4);
+ declare entero t = 0;
+ declare massiv h[5];
+ for (5){
+    h[t] = (t*3)/2;
+    x = h[t];
+    print x;
+    t = t + 1;
+ };
+ declare entero libfunction;
+ libfunction = sum(h, 5);
+ print libfunction;
+ libfunction = max(h, 5);
+ print libfunction;
+ 
+ declare entero y = 3;
+ declare massiv ar[10];
+ ar[0] = 15;
+ declare entero pam = 2;
+ ar[pam] = -6*4;
+ y = y + ar[2];
+ print y;
+
+ declare cuerda forstr = ab("Hello ", "World!");
+ print forstr;
+
+ ret 0;
+};
